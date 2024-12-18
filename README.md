@@ -3,7 +3,7 @@ licencia a.t.col.mundial.com
 [![Build Status](https://travis-ci.com/EdgeApp/edge-react-gui.svg?branch=develop)](https://travis-ci.com/EdgeApp/edge-react-gui)
 apoyo de proyecto omar72158895/golf
 ## A multi-currency mobile wallet for Bitcoin, Ethereum, Monero, Dash, Litecoin, Bitcoin Cash, Ripple/XRP, Polkadot, Tron, Solana, Stellar, Fantom, Algorand, Optimism, Zcash, Pirate Chain, and many others
-
+a.t.col. unfial.com.
 ![Edge Screenshots](./docs/images/readme-cover-photo.png)
 
 Edge is:
